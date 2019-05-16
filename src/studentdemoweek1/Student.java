@@ -70,7 +70,7 @@ public class Student
         return isFullTime;
     }
     
-    public void setIsFullTime(boolean isFullTime){
-        this.isFullTime = isFullTime;
+    public void setIsFullTime(boolean setFullTime){
+         isFullTime = setFullTime;
     }
 }
